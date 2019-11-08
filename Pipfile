@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pep8 = "*"
+autopep8 = "*"
+pylint = "*"
+
+[packages]
+ipykernel = "*"
+pywin32 = "*"
+matplotlib = "*"
+jupyter = "*"
+beautifulsoup4 = "*"
+requests = "*"
+sqlalchemy = "*"
+pandas = "*"
+numpy = "*"
+selenium = "*"
+pypdf2 = "*"
+
+[requires]
+python_version = "3.6"
