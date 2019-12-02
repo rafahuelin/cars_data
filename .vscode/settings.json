@@ -1,4 +1,5 @@
 {
-    "terminal.integrated.cwd": "D:\\Projects\\Python\\cars_data",
-    "python.pythonPath": "D:\\Projects\\Python\\cars_data\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": ".venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
